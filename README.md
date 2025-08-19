@@ -53,9 +53,7 @@
 </head>
 <body>
   <main class="sheet" role="main" aria-label="Текстовый лист">
-    <h1>Ваш большой текст</h1>
-    <p class="hint">Просто вставьте сюда (Ctrl/Cmd+V) или начните печатать.</p>
-    <div id="editor" contenteditable="true" spellcheck="false"></div>
+    <h1>Лаура, мой номер телефона +77470724110</h1>
   </main>
 </body>
 </html>
